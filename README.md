@@ -1,4 +1,7 @@
 # Vinicius Rosa 
+I am a software engineer graduated in Systems Analysis and Development from IFRS Osório. I always strive to learn and keep myself up to date with the latest software development trends. Currently, my focus is on improving my ability to write high-quality code with TDD (Test Driven Development), Clean Code, and Clean Architecture.
+
+I am currently working as a fullstack developer in a Fintech company, where I am responsible for contributing to the maintenance and development of new features. We use technologies such as ReactJS/NextJS, NodeJS/NestJS, and React Native.
 
 [![Linkedin Badge](https://img.shields.io/badge/-vinicius%20rosa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-rosa-developer/)](https://www.linkedin.com/in/vinicius-rosa-developer/)
 [![Gmail Badge](https://img.shields.io/badge/-vinicius.rosa00@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vinicius.rosa00@gmail.com)](mailto:vinicius.rosa00@gmail.com)
